@@ -1,0 +1,17 @@
+.menu_ul_style {
+    list-style-type: none;
+}
+
+.book_style {
+    border: 1px solid black;
+    width: 200px;
+    height: 270px;
+    padding: 5px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.image_style {
+    width: 200px;
+    height: 200px;
+}
